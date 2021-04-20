@@ -3,7 +3,7 @@
     <img src="https://github.com/danielusi/sprint-website/blob/main/assets/asset.png" alt="sprint logo">
 </h1>
 <p align="center">
-    <a href="https://github.com/danielusi/sprint-website/blob/09a342170299034162ecb21cac2c5d13074d5082/LICENSE">
+    <a href="https://github.com/danielusi/sprint-website/blob/main/LICENSE">
         <img alt="Licença" src="https://img.shields.io/static/v1?label=License&message=MIT&color=294D38&labelColor=5D53F3">
     </a>
 </p>
